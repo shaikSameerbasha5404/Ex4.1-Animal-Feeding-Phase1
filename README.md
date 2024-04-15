@@ -115,7 +115,7 @@ public class MoveForward : MonoBehaviour
 ```
 ## Output:
 
-![alt text](<Screenshot (196).png>)
+![alt text](<pic.png>)
 
 ## Result:
 
